@@ -1,0 +1,12 @@
+{
+  "name": "guess-who",
+  "version": "1.0.0",
+  "description": "Guess Who board game in react",
+  "main": "index.js",
+  "author": "abizmo <abizmo@gmail.com>",
+  "license": "MIT",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/abizmo/guess-who.git"
+	}
+}
