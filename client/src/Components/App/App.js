@@ -6,9 +6,12 @@ import Score from './Score';
 
 const Container = styled.div`
   display: flex;
-  flex-flow: column nowrap;
+  flex-flow: row-reverse nowrap;
   margin: 0 auto;
   width: 80rem;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
 `;
 
 const App = () => {
