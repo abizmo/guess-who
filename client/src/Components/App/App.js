@@ -8,7 +8,7 @@ const Container = styled.div`
   display: flex;
   flex-flow: row-reverse nowrap;
   margin: 0 auto;
-  width: 80rem;
+  width: 740px;
   justify-content: flex-end;
   align-items: center;
   height: 100%;

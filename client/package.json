@@ -22,6 +22,7 @@
   "watch": "parcel public/index.html"
  },
  "alias": {
-  "#Components": "./src/Components"
+  "#Components": "./src/Components",
+	"#Root": "./src"
  }
 }
