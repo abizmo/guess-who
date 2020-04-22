@@ -8,7 +8,9 @@ import { Provider } from './context';
 import './index.css';
 
 render((
-  <Wrapper title="Guess Who?">
-    <App />
-  </Wrapper>
+  <Provider>
+    <Wrapper title="Guess Who?">
+      <App />
+    </Wrapper>
+  </Provider>
 ),  document.getElementById("root"));
