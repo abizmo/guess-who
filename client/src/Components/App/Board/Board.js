@@ -26,7 +26,7 @@ const Card = styled.button`
   position: relative;
   outline: none;
   padding: 0;
-  border: 0;
+  border: 1px solid white;
   border-radius: 4px;
   box-shadow: 0 2px 6px 2px rgba( 0, 0, 0, .2);
 `;
@@ -34,6 +34,7 @@ const Card = styled.button`
 const Img = styled.img`
   height: auto;
   width: 100%;
+  border-radius: 4px;
 `;
 
 const Door = styled.div`
